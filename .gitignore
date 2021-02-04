@@ -9,6 +9,11 @@ __pycache__/
 # Config file
 config.py
 
+# CSV files
+movies_metadata.csv
+ratings.csv
+ratings_small.csv
+
 # Distribution / packaging
 .Python
 build/
